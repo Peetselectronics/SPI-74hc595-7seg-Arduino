@@ -49,7 +49,6 @@ void setup() {
   // setup SPI library
   SPI.setBitOrder(MSBFIRST);
   SPI.setDataMode(SPI_MODE0);
-  //SPI.setClockDivider(SPI_CLOCK_DIV2);
   SPI.begin();
 
   //setup common pins display
