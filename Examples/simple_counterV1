@@ -10,7 +10,7 @@
 
 #include <SPI.h>
 
-// define pins and other variables
+//define pinS
 const int latchPin = 9;
 const int clockPin = 13;
 const int dataPin  = 11;
@@ -21,14 +21,13 @@ const int com4  = 15;
 
 //variable
 byte value;
-
 int i = 0;
 long previousMillis = 0;
 long interval = 500; //(milliseconds)
  
 
-//bitstream patarnas 
-byte one      = 0b00000110; //0b00110000;
+//bitstream patterns 
+byte one      = 0b00000110; //LEFT 0b00110000;
 byte two      = 0b01011011;
 byte three    = 0b01001111;
 byte four     = 0b01100110;
