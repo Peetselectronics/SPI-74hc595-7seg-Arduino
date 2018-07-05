@@ -1,0 +1,9 @@
+// 7 Segment Display SPI code by Peet's electronics
+//
+//                        AAAA         Q0Q0Q0
+//                       F    B       Q5    Q1
+//                       F    B       Q5    Q1
+//                        GGGG         Q6Q6Q6
+//                       E    C       Q4    Q2
+//                       E    C       Q4    Q2        
+//                        DDDD  H      Q3Q3Q3   Q7      H and Q7 = DP
