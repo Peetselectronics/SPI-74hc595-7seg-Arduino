@@ -1,4 +1,3 @@
-'''C
 // 7 Segment Display SPI code by Peet's electronics
 //
 //          AAAA         Q0Q0Q0
@@ -119,4 +118,4 @@ void Refresh_Display(){
     digitalWrite(latchPin, HIGH);
     digitalWrite(com4, HIGH); // com1 low inactive 
   }
-  '''
+
