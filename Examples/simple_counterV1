@@ -119,5 +119,4 @@ void Refresh_Display(){
     digitalWrite(latchPin, HIGH);
     digitalWrite(com4, HIGH); // com1 low inactive 
   }
-
-//void setDigital(byte digit, byte decPlace) {
+  '''
