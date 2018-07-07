@@ -14,7 +14,7 @@
 
 //timezone
 int timezone = +2; //+2 hours = Amsterdam, Berlin, etc. 
-long int timestamp = 1530986093 ; // 07/07/2018 @ 5:54pm (UTC)
+long int timestamp = 1530986093 ; // 07/07/2018 @ 5:54pm (UTC) - https://www.unixtimestamp.com
 
 // define pins and other variables
 const int latchPin = 9;
