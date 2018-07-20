@@ -1,5 +1,5 @@
 This are some examples for 74hc595 spi 7 segments display.
 
-Example 1 
+TimeTemperature.ino circuit example
 
-Example 2
+
